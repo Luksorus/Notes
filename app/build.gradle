@@ -59,7 +59,6 @@ dependencies {
     //Это для прикольных Progress Bar-ов
     implementation 'com.github.ybq:Android-SpinKit:1.4.0'
 
-    //Круглые фото
-    implementation 'com.makeramen:roundedimageview:2.3.0'
+   
 
 }
